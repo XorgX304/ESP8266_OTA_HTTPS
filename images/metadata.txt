@@ -1,6 +1,6 @@
 {
     "result": "success",
-    "fw_version": "1.6",
+    "fw_version": "1.7",
     "commands": {
         "transmission_interval": "11879"
     }
